@@ -5,3 +5,13 @@ console.log("Harsh");
 
 console.log(typeof "Harsh");
 
+
+let score = "33"
+
+console.log(typeof(score));
+
+let scoreInNumber = Number(score)
+console.log(typeof(scoreInNumber));
+console.log(scoreInNumber);
+
+
