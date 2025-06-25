@@ -10,7 +10,7 @@ let score = "33"
 
 console.log(typeof(score));
 
-let scoreInNumber = Number(score)
+let scoreInNumber = Number(score) // type conversion Strinng to Number
 console.log(typeof(scoreInNumber));
 console.log(scoreInNumber);
 
